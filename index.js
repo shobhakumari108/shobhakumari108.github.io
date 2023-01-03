@@ -28,7 +28,7 @@ const hiddenElement = document.querySelectorAll(".hidden");
 hiddenElement.forEach((element)=> observer.observe(element));
 
     // or enable responsive functionality:
-    GitHubCalendar(".calendar", "amanvyas1", { responsive: true });
+    GitHubCalendar(".calendar", "shobhakumari108", { responsive: true });
 
 
 
